@@ -1,0 +1,26 @@
+div { 
+    background-color: black;
+    padding: 10px;
+}
+div:hover{ 
+    background-color: #666;
+}
+
+.title { 
+    color: #fff;
+}
+
+.work{ 
+    color: #fff;
+    font-size: 2em;
+}
+
+
+.bg-red { 
+    background-color: red;
+    border-radius: 70px;
+}
+.bg-green { 
+    border-radius: 70px;
+    background-color: green;
+}
